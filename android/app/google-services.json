@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765931589519",
+    "project_id": "sense-stm",
+    "storage_bucket": "sense-stm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765931589519:android:d1baa04a3742ee06d8c5fa",
+        "android_client_info": {
+          "package_name": "com.example.sense_stm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSs2MyJ2A21O6xaMjnNCRlr1fSx3LBMoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
