@@ -1,16 +1,4 @@
 # sense_stm
 
-A new Flutter project.
+A flutter project created for IoT data usage. The application is equipped with the ability to connect using both HTTP or MQTT by reading the Data on the Cloud, graphing it, and the ability to communicate changes using SMS. The application saves configurations for device as needed, like max and min tmp, name, id, token, etc. Using sharedpreferences to store it locally, all your sensors are at the tip of your hands. Monitoring their temperatures, and the ability to change their configuration by sending a custom SMS message. The application also uses Firebase authentication, giving every user on the application their own set of data once they login. Applicayion is designed according to company needs and with its cross platform nature, meets every IoT need when it comes to sensors and monitoring.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
